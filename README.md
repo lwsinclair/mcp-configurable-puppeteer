@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/afshawnlotfi-mcp-configurable-puppeteer-badge.png)](https://mseep.ai/app/afshawnlotfi-mcp-configurable-puppeteer)
+
 # Configurable Puppeteer MCP Server
 
 A Model Context Protocol server that provides browser automation capabilities using Puppeteer with configurable options. This server enables LLMs to interact with web pages, take screenshots, and execute JavaScript in a real browser environment, with the ability to customize Puppeteer launch options through environment variables.
